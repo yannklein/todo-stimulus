@@ -7,6 +7,15 @@ In this challenge, you will create a **to-do list**, with the  **Stimulus**. The
 
 ### Setup
 
+Download and run this challenge on your machine:
+
+```bash
+cd ~/code
+gh repo clone yannklein/todo-stimulus
+cd todo-stimulus
+code .
+```
+
 Let's launch a local webserver by running:
 
 ```bash
